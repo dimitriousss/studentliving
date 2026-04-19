@@ -9,15 +9,14 @@ Today, finding good student housing in Warsaw is difficult due to high prices, p
 - Ambiguity of "rooms" parameter and real area-rooms relationship, > 50% of the "2-room appartments" are not shareable
 - Fewer than 2% of flats < 40m² fall within an affordable budget range for student renting
 - Księcia Janusza, Młociny are great non-central locations with many appartmments suitable for solo student living
+- Quality of the < 40m² flat for a student does not command how much the landlords are actully charging
 - 2-room > 50m² flat sharing is a beneficial strategy for students in Warsaw, rated ~17% higher than solo flats on average
-- More than half of university catchment hexes have inadequate private rental supply, only ~8% is covered by dorms
 
 ## Approach
 - Data extraction (OpenStreeetMap, otodom.pl scraping)
 - Dataset creation (data cleaning, feature engineering, splitting the analysis between solo and shareable flats)
 - Student liveability score
 - Flat sharing strategy analysis
-- Housing supply gap analysis
 - Personalized student liveability scoring engine / flat reccommendation tool
 
 ## Output
